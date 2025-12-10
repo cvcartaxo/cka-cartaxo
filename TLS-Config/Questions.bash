@@ -11,4 +11,4 @@
     curl -vk --tls-max 1.2 https://ckaquestion.k8s.local # should fail
     curl -vk --tlsv1.3 https://ckaquestion.k8s.local # should work
 
-# Video Link
+# Video Link -

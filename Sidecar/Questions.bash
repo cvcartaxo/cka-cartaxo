@@ -7,4 +7,4 @@
 "/bin/sh -c tail -f /var/log/wordpress.log"
 # Use a volume mounted at /var/log to make the log file wordpress.log available to the co-located container
 
-#Video link - https://youtu.be/3xraEGGQJDY
+#Video link -
