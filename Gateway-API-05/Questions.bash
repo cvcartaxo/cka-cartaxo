@@ -9,5 +9,9 @@
 # 2. Create a HTTPRoute resource named web-route with hostname gateway.web.k8s.local that maintains the
 # existing routing rules from the current Ingress resource named web.
 # Note: A GatewayClass named nginx-class is already installed in the cluster
+# 3. Curl the endpoint https://gateway.web.k8s.local to verify that the application is accessible over HTTPS 
+# "curl -k https://gateway.web.k8s.local" 
 
 #Video link - 
+
+#Docs Links - https://kubernetes.io/docs/concepts/services-networking/gateway/ | https://gateway-api.sigs.k8s.io/guides/migrating-from-ingress/#migrating-from-ingress

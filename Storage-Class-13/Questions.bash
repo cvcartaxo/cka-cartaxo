@@ -8,3 +8,5 @@
 # Do not modify any existing Deployments or PersistentVolumeClaims
 
 # Video link - 
+
+# Docs links - https://kubernetes.io/docs/concepts/storage/storage-classes/ | https://kubernetes.io/docs/tasks/administer-cluster/change-default-storage-class/

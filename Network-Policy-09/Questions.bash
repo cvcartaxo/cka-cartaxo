@@ -1,5 +1,5 @@
 # Question:
-# There are two deployments, Frontend and Backend
+# There are tree deployments, Frontend and Backend
 # Frontend is in the frontend namespace, Backend is in the backend namespace
 
 # Task
@@ -8,3 +8,5 @@
 # frontend and the backend deployments in the least permissive way and deploy that yaml
 
 # Video Link -
+
+# Docs Links - https://kubernetes.io/docs/concepts/services-networking/network-policies/

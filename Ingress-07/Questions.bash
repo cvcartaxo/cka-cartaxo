@@ -12,3 +12,5 @@ curl NODEIP:NODEPORT/echo
 # pointing to example.org
 
 # Video Link - 
+
+# Docs Links - https://kubernetes.io/docs/reference/kubectl/generated/kubectl_scale/ |  https://kubernetes.io/docs/concepts/services-networking/ingress/

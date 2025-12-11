@@ -8,3 +8,5 @@
 # 4. Set the downscale stabilization window to 30 seconds
 
 # Video Link - 
+
+# Docs Links - https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/ | https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/

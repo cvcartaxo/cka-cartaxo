@@ -23,6 +23,7 @@ spec:
     protocol: TCP
     nodePort: 30080
 EOF
+
 kubectl apply -f svc.yaml
 kubectl get svc nodeport-service -n relative -o wide
 # Test: curl http://<nodeIP>:30080

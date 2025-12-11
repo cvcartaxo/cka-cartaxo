@@ -8,3 +8,5 @@
 # Use a volume mounted at /var/log to make the log file wordpress.log available to the co-located container
 
 #Video link -
+
+#Docs Links - https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/

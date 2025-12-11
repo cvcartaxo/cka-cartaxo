@@ -10,3 +10,5 @@
 # high-priority class
 
 # Video Link -
+
+# Docs Links - https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_priorityclass/ | https://kubernetes.io/docs/concepts/scheduling-eviction/pod-priority-preemption/

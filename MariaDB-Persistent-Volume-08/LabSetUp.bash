@@ -64,10 +64,6 @@ spec:
         volumeMounts:
         - name: mariadb-storage
           mountPath: /var/lib/mysql
-      volumes:
-      - name: mariadb-storage
-        persistentVolumeClaim:
-          claimName: mariadb
 EOF
 
 kubectl apply -f ~/mariadb-deploy.yaml

@@ -11,3 +11,5 @@
 # After making the changes scale the deployment back to 3 replicas
 
 #Video link - 
+
+#Docs Links - https://kubernetes.io/docs/reference/kubectl/generated/kubectl_scale/ | https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/ |

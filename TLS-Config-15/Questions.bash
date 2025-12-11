@@ -12,3 +12,5 @@
     curl -vk --tlsv1.3 https://ckaquestion.k8s.local # should work
 
 # Video Link -
+
+# Docs Links - https://kubernetes.io/docs/concepts/configuration/configmap/ | https://kubernetes.io/docs/concepts/workloads/controllers/deployment/

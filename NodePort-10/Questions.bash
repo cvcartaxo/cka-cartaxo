@@ -7,3 +7,6 @@
 # 3. Configure the new Service to also expose the individual pods using NodePort
 
 # Video Link 
+
+# Docs Links - https://kubernetes.io/docs/concepts/services-networking/service/ | https://kubernetes.io/docs/concepts/services-networking/service/#type-nodeport
+
