@@ -7,3 +7,4 @@
 # You may use any output format that kubectl supports
 
 # Video Link - 
+# Docs Links - https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/
